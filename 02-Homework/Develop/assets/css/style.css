@@ -76,6 +76,10 @@ p {
   margin-left: 20px;
 }
 
+/* 
+bring benefit-lead, brand and cost into one as all share same properties
+*/
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -90,6 +94,7 @@ p {
 /* 
 bring benefit-lead, brand and cost into one as all share same properties
 */
+
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
@@ -101,7 +106,7 @@ bring benefit-lead, brand and cost into one as all share same properties
 }
 
 /* 
-created id for all imgs as only 3 on page with same properties
+created class for all images as only 3 on page with same properties
 */
 
 .images {
